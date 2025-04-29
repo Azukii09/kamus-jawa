@@ -1,4 +1,4 @@
-export const Word =[
+export const Word = [
     {
         indonesia: "perintah",
         krama_inggil: "dhawuh",
@@ -7,1392 +7,1362 @@ export const Word =[
         deskripsi: "Suatu ucapan atau tindakan untuk menyuruh seseorang melakukan sesuatu."
     },
     {
-        word: "pelana",
-        tranlsate: {
-            halus: "kambil",
-            tengah: "abah-abah",
-            kasar: "abah-abah"},
-        deskripsi: "Alat yang diletakkan di punggung kuda sebagai tempat duduk penunggang."},
+        indonesia: "pelana",
+        krama_inggil: "kambil",
+        krama: "abah-abah",
+        ngoko: "abah-abah",
+        deskripsi: "Alat yang diletakkan di punggung kuda sebagai tempat duduk penunggang."
+    },
     {
-        word: "merah",
-        tranlsate: {
-            halus: "abrit",
-            tengah: "abrit",
-            kasar: "abang"},
-        deskripsi: "Warna merah."},
+        indonesia: "merah",
+        krama_inggil: "abrit",
+        krama: "abrit",
+        ngoko: "abang",
+        deskripsi: "Warna merah."
+    },
     {
-        word: "berat",
-        tranlsate: {
-            halus: "awrat",
-            tengah: "awrat",
-            kasar: "abot"},
-        deskripsi: "Sesuatu yang mempunyai bobot atau beban besar."},
+        indonesia: "berat",
+        krama_inggil: "awrat",
+        krama: "awrat",
+        ngoko: "abot",
+        deskripsi: "Sesuatu yang mempunyai bobot atau beban besar."
+    },
     {
-        word: "menanak nasi",
-        tranlsate: {
-            halus: "bethak",
-            tengah: "bêthak",
-            kasar: "adang"},
-        deskripsi: "Proses memasak beras hingga menjadi nasi."},
+        indonesia: "menanak nasi",
+        krama_inggil: "bethak",
+        krama: "bêthak",
+        ngoko: "adang",
+        deskripsi: "Proses memasak beras hingga menjadi nasi."
+    },
     {
-        word: "berdiri",
-        tranlsate: {
-            halus: "jumênêng",
-            tengah: "ngadeg",
-            kasar: "adêg"},
-        deskripsi: "Posisi tegak lurus dengan kaki menopang tubuh."},
+        indonesia: "berdiri",
+        krama_inggil: "jumênêng",
+        krama: "ngadeg",
+        ngoko: "adêg",
+        deskripsi: "Posisi tegak lurus dengan kaki menopang tubuh."
+    },
     {
-        word: "dingin",
-        tranlsate: {
-            halus: "asrêp",
-            tengah: "asrêp",
-            kasar: "adhêm"},
-        deskripsi: "Keadaan dengan suhu rendah."},
+        indonesia: "dingin",
+        krama_inggil: "asrêp",
+        krama: "asrêp",
+        ngoko: "adhêm",
+        deskripsi: "Keadaan dengan suhu rendah."
+    },
     {
-        word: "hadap",
-        tranlsate: {
-            halus: "ajêng",
-            tengah: "ajêng",
-            kasar: "adhêp"},
-        deskripsi: "Mengarah ke sesuatu."},
+        indonesia: "hadap",
+        krama_inggil: "ajêng",
+        krama: "ajêng",
+        ngoko: "adhêp",
+        deskripsi: "Mengarah ke sesuatu."
+    },
     {
-        word: "adik",
-        tranlsate: {
-            halus: "rayi",
-            tengah: "rayi",
-            kasar: "adhi"},
-        deskripsi: "Saudara kandung yang lebih muda."},
+        indonesia: "adik",
+        krama_inggil: "rayi",
+        krama: "rayi",
+        ngoko: "adhi",
+        deskripsi: "Saudara kandung yang lebih muda."
+    },
     {
-        word: "jauh",
-        tranlsate: {
-            halus: "têbih",
-            tengah: "têbih",
-            kasar: "adoh"},
-        deskripsi: "Memiliki jarak yang panjang dari suatu titik."},
+        indonesia: "jauh",
+        krama_inggil: "têbih",
+        krama: "têbih",
+        ngoko: "adoh",
+        deskripsi: "Memiliki jarak yang panjang dari suatu titik."
+    },
     {
-        word: "jual",
-        tranlsate: {
-            halus: "sade",
-            tengah: "sade",
-            kasar: "adol"},
+        indonesia: "jual",
+        krama_inggil: "sade",
+        krama: "sade",
+        ngoko: "adol",
         deskripsi: "Menawarkan barang atau jasa untuk ditukar dengan uang."
     },
     {
-        word: "menyabung",
-        tranlsate: {
-            halus: "abên",
-            tengah: "abên",
-            kasar: "adu"},
-        deskripsi: "Melakukan pertandingan hewan, seperti ayam."},
+        indonesia: "menyabung",
+        krama_inggil: "abên",
+        krama: "abên",
+        ngoko: "adu",
+        deskripsi: "Melakukan pertandingan hewan, seperti ayam."
+    },
     {
-        word: "mandi",
-        tranlsate: {
-            halus: "siram",
-            tengah: "adus",
-            kasar: "adus"},
-            deskripsi: "Membersihkan tubuh dengan air."},
+        indonesia: "mandi",
+        krama_inggil: "siram",
+        krama: "adus",
+        ngoko: "adus",
+        deskripsi: "Membersihkan tubuh dengan air."
+    },
     {
-        word: "agama",
-        tranlsate: {
-            halus: "agami",
-            tengah: "agami",
-            kasar: "agama"},
-        deskripsi: "Sistem kepercayaan terhadap Tuhan."},
+        indonesia: "agama",
+        krama_inggil: "agami",
+        krama: "agami",
+        ngoko: "agama",
+        deskripsi: "Sistem kepercayaan terhadap Tuhan."
+    },
     {
-        word: "cepat",
-        tranlsate: {
-            halus: "enggal",
-            tengah: "enggal",
-            kasar: "age"},
-        deskripsi: "Dilakukan dalam waktu singkat."},
+        indonesia: "cepat",
+        krama_inggil: "enggal",
+        krama: "enggal",
+        ngoko: "age",
+        deskripsi: "Dilakukan dalam waktu singkat."
+    },
     {
-        word: "baru saja",
-        tranlsate: {
-            halus: "sawêg",
-            tengah: "sawêg",
-            kasar: "agek"},
-        deskripsi: "Sesuatu yang baru terjadi."},
+        indonesia: "baru saja",
+        krama_inggil: "sawêg",
+        krama: "sawêg",
+        ngoko: "agek",
+        deskripsi: "Sesuatu yang baru terjadi."
+    },
     {
-        word: "jangan",
-        tranlsate: {
-            halus: "sampun",
-            tengah: "ampun",
-            kasar: "aja"},
-        deskripsi: "Larangan untuk melakukan sesuatu."},
+        indonesia: "jangan",
+        krama_inggil: "sampun",
+        krama: "ampun",
+        ngoko: "aja",
+        deskripsi: "Larangan untuk melakukan sesuatu."
+    },
     {
-        word: "tempat nasi",
-        tranlsate: {
-            halus: "ambêng",
-            tengah: "ajang",
-            kasar: "ajang"},
-        deskripsi: "Tempat untuk menyajikan nasi."},
+        indonesia: "tempat nasi",
+        krama_inggil: "ambêng",
+        krama: "ajang",
+        ngoko: "ajang",
+        deskripsi: "Tempat untuk menyajikan nasi."
+    },
     {
-        word: "nilai",
-        tranlsate: {
-            halus: "aos",
-            tengah: "aos",
-            kasar: "aji"},
-        deskripsi: "Harga, martabat, atau kualitas suatu hal."},
+        indonesia: "nilai",
+        krama_inggil: "aos",
+        krama: "aos",
+        ngoko: "aji",
+        deskripsi: "Harga, martabat, atau kualitas suatu hal."
+    },
     {
-        word: "maju",
-        tranlsate: {
-            halus: "ajêng",
-            tengah: "ajêng",
-            kasar: "aju"},
-        deskripsi: "Bergerak ke depan."},
+        indonesia: "maju",
+        krama_inggil: "ajêng",
+        krama: "ajêng",
+        ngoko: "aju",
+        deskripsi: "Bergerak ke depan."
+    },
     {
-        word: "banyak",
-        tranlsate: {
-            halus: "kathah",
-            tengah: "kathah",
-            kasar: "akeh"},
-        deskripsi: "Dalam jumlah besar atau tidak sedikit."},
+        indonesia: "banyak",
+        krama_inggil: "kathah",
+        krama: "kathah",
+        ngoko: "akeh",
+        deskripsi: "Dalam jumlah besar atau tidak sedikit."
+    },
     {
-        word: "suruh",
-        tranlsate: {
-            halus: "dhawuh",
-            tengah: "akên",
-            kasar: "akon"},
-        deskripsi: "Meminta atau memerintahkan seseorang untuk melakukan sesuatu."},
+        indonesia: "suruh",
+        krama_inggil: "dhawuh",
+        krama: "akên",
+        ngoko: "akon",
+        deskripsi: "Meminta atau memerintahkan seseorang untuk melakukan sesuatu."
+    },
     {
-        word: "maaf",
-        tranlsate: {
-            halus: "aksami",
-            tengah: "aksami",
-            kasar: "aksama"},
-        deskripsi: "Permohonan pengampunan atas kesalahan."},
+        indonesia: "maaf",
+        krama_inggil: "apuntên",
+        krama: "apuntên",
+        ngoko: "apura",
+        deskripsi: "Permohonan pengampunan atas kesalahan."
+    },
     {
-        word: "saya",
-        tranlsate: {
-            halus: "dalêm",
-            tengah: "kawula",
-            kasar: "aku"},
-        deskripsi: "Kata ganti orang pertama tunggal."},
+        indonesia: "tujuan",
+        krama_inggil: "angkah",
+        krama: "angkah",
+        ngoko: "arah",
+        deskripsi: "Sesuatu yang dituju atau dikehendaki."
+    },
     {
-        word: "mengaku",
-        tranlsate: {
-            halus: "aken",
-            tengah: "aken",
-            kasar: "aku"},
-        deskripsi: "Menyatakan sesuatu dengan jujur atau menyatakan kepemilikan."},
+        indonesia: "buruk",
+        krama_inggil: "awon",
+        krama: "awon",
+        ngoko: "ala",
+        deskripsi: "Tidak baik, jelek."
+    },
     {
-        word: "buruk",
-        tranlsate: {
-            halus: "awon",
-            tengah: "awon",
-            kasar: "ala"},
-        deskripsi: "Tidak baik, jelek."},
+        indonesia: "halangan",
+        krama_inggil: "pambêngan",
+        krama: "pambêngan",
+        ngoko: "alangan",
+        deskripsi: "Sesuatu yang menghambat atau menghalangi."
+    },
     {
-        word: "halangan",
-        tranlsate: {
-            halus: "pambêngan",
-            tengah: "pambêngan",
-            kasar: "alangan"},
-        deskripsi: "Sesuatu yang menghambat atau menghalangi."},
+        indonesia: "hutan",
+        krama_inggil: "wana",
+        krama: "wana",
+        ngoko: "alas",
+        deskripsi: "Wilayah yang dipenuhi pepohonan dan tumbuhan liar."
+    },
     {
-        word: "hutan",
-        tranlsate: {
-            halus: "wana",
-            tengah: "wana",
-            kasar: "alas"},
-        deskripsi: "Wilayah yang dipenuhi pepohonan dan tumbuhan liar."},
+        indonesia: "cincin",
+        krama_inggil: "sêsupe",
+        krama: "sêsupe",
+        ngoko: "ali-ali",
+        deskripsi: "Perhiasan bulat yang dikenakan di jari."
+    },
     {
-        word: "cincin",
-        tranlsate: {
-            halus: "sêsupe",
-            tengah: "sêsupe",
-            kasar: "ali-ali"},
-        deskripsi: "Perhiasan bulat yang dikenakan di jari."},
+        indonesia: "pindah",
+        krama_inggil: "pindhah",
+        krama: "pindhah",
+        ngoko: "alih",
+        deskripsi: "Berubah tempat atau posisi."
+    },
     {
-        word: "pindah",
-        tranlsate: {
-            halus: "pindhah",
-            tengah: "pindhah",
-            kasar: "alih"},
-        deskripsi: "Berubah tempat atau posisi."},
+        indonesia: "alis",
+        krama_inggil: "imba",
+        krama: "allis",
+        ngoko: "alis",
+        deskripsi: "Rambut tipis di atas mata."
+    },
     {
-        word: "alis",
-        tranlsate: {
-            halus: "imba",
-            tengah: "allis",
-            kasar: "alis"},
-        deskripsi: "Rambut tipis di atas mata."},
+        indonesia: "karena",
+        krama_inggil: "amargi",
+        krama: "amargi",
+        ngoko: "amarga",
+        deskripsi: "Sebab, alasan terjadinya sesuatu."
+    },
     {
-        word: "karena",
-        tranlsate: {
-            halus: "amargi",
-            tengah: "amargi",
-            kasar: "amarga"},
-        deskripsi: "Sebab, alasan terjadinya sesuatu."},
+        indonesia: "lebar",
+        krama_inggil: "wiyar",
+        krama: "wiyar",
+        ngoko: "amba",
+        deskripsi: "Mempunyai ukuran luas secara horizontal."
+    },
     {
-        word: "lebar",
-        tranlsate: {
-            halus: "wiyar",
-            tengah: "wiyar",
-            kasar: "amba"},
-        deskripsi: "Mempunyai ukuran luas secara horizontal."},
+        indonesia: "bau",
+        krama_inggil: "ganda",
+        krama: "ambêt",
+        ngoko: "ambu",
+        deskripsi: "Aroma atau wangi yang ditangkap oleh indera penciuman."
+    },
     {
-        word: "bau",
-        tranlsate: {
-            halus: "ganda",
-            tengah: "ambêt",
-            kasar: "ambu"},
-        deskripsi: "Aroma atau wangi yang ditangkap oleh indera penciuman."},
+        indonesia: "cium",
+        krama_inggil: "aras",
+        krama: "aras",
+        ngoko: "ambung",
+        deskripsi: "Menempelkan bibir sebagai tanda sayang atau salam."
+    },
     {
-        word: "cium",
-        tranlsate: {
-            halus: "aras",
-            tengah: "aras",
-            kasar: "ambung"},
-        deskripsi: "Menempelkan bibir sebagai tanda sayang atau salam."},
+        indonesia: "ambil",
+        krama_inggil: "mêndhêt",
+        krama: "mêndhêt",
+        ngoko: "amek",
+        deskripsi: "Mengambil atau memegang sesuatu dari suatu tempat."
+    },
     {
-        word: "ambil",
-        tranlsate: {
-            halus: "mêndhêt",
-            tengah: "mêndhêt",
-            kasar: "amek"},
-        deskripsi: "Mengambil atau memegang sesuatu dari suatu tempat."},
+        indonesia: "karena",
+        krama_inggil: "amêrgi",
+        krama: "amêrgi",
+        ngoko: "amêrga",
+        deskripsi: "Alasan terjadinya sesuatu, sinonim dari amarga."
+    },
     {
-        word: "karena",
-        tranlsate: {
-            halus: "amêrgi",
-            tengah: "amêrgi",
-            kasar: "amêrga"},
-        deskripsi: "Alasan terjadinya sesuatu, sinonim dari amarga."},
+        indonesia: "minta maaf",
+        krama_inggil: "nuwun sewu",
+        krama: "nuwun sewu",
+        ngoko: "amit",
+        deskripsi: "Memohon pengampunan secara sopan."
+    },
     {
-        word: "minta maaf",
-        tranlsate: {
-            halus: "nuwun sewu",
-            tengah: "nuwun sewu",
-            kasar: "amit"},
-        deskripsi: "Memohon pengampunan secara sopan."},
+        indonesia: "singgah",
+        krama_inggil: "pinarak",
+        krama: "pinarak",
+        ngoko: "ampir",
+        deskripsi: "Berhenti sejenak di suatu tempat dalam perjalanan."
+    },
     {
-        word: "singgah",
-        tranlsate: {
-            halus: "pinarak",
-            tengah: "pinarak",
-            kasar: "ampir"},
-        deskripsi: "Berhenti sejenak di suatu tempat dalam perjalanan."},
+        indonesia: "ada",
+        krama_inggil: "wonten",
+        krama: "wonten",
+        ngoko: "ana",
+        deskripsi: "Keberadaan sesuatu, tidak kosong."
+    },
     {
-        word: "ada",
-        tranlsate: {
-            halus: "wonten",
-            tengah: "wonten",
-            kasar: "ana"},
-        deskripsi: "Keberadaan sesuatu, tidak kosong."},
+        indonesia: "anak",
+        krama_inggil: "putra",
+        krama: "lare",
+        ngoko: "anak",
+        deskripsi: "Keturunan dari orang tua."
+    },
     {
-        word: "anak",
-        tranlsate: {
-            halus: "putra",
-            tengah: "lare",
-            kasar: "anak"},
-        deskripsi: "Keturunan dari orang tua."},
+        indonesia: "percaya",
+        krama_inggil: "pitados",
+        krama: "pitados",
+        ngoko: "andêl",
+        deskripsi: "Meyakini kebenaran sesuatu."
+    },
     {
-        word: "percaya",
-        tranlsate: {
-            halus: "pitados",
-            tengah: "pitados",
-            kasar: "andêl"},
-        deskripsi: "Meyakini kebenaran sesuatu."},
+        indonesia: "sulit",
+        krama_inggil: "awrat",
+        krama: "awrat",
+        ngoko: "angel",
+        deskripsi: "Tidak mudah dilakukan atau diselesaikan."
+    },
     {
-        word: "sulit",
-        tranlsate: {
-            halus: "awrat",
-            tengah: "awrat",
-            kasar: "angel"},
-        deskripsi: "Tidak mudah dilakukan atau diselesaikan."},
+        indonesia: "asalkan",
+        krama_inggil: "saugêr",
+        krama: "saugêr",
+        ngoko: "anggêr",
+        deskripsi: "Dengan syarat atau ketentuan."
+    },
     {
-        word: "asalkan",
-        tranlsate: {
-            halus: "saugêr",
-            tengah: "saugêr",
-            kasar: "anggêr"},
-        deskripsi: "Dengan syarat atau ketentuan."},
+        indonesia: "pergi",
+        krama_inggil: "tindhak",
+        krama: "bidhal",
+        ngoko: "angkat",
+        deskripsi: "Berpindah dari satu tempat ke tempat lain."
+    },
     {
-        word: "pergi",
-        tranlsate: {
-            halus: "tindhak",
-            tengah: "bidhal",
-            kasar: "angkat"},
-        deskripsi: "Berpindah dari satu tempat ke tempat lain."},
+        indonesia: "pakai",
+        krama_inggil: "agêm",
+        krama: "anggê",
+        ngoko: "anggo",
+        deskripsi: "Menggunakan sesuatu."
+    },
     {
-        word: "pakai",
-        tranlsate: {
-            halus: "agêm",
-            tengah: "anggê",
-            kasar: "anggo"},
-        deskripsi: "Menggunakan sesuatu."},
+        indonesia: "menggembala",
+        krama_inggil: "angen",
+        krama: "angen",
+        ngoko: "angon",
+        deskripsi: "Menjaga dan merawat ternak di padang rumput."
+    },
     {
-        word: "menggembala",
-        tranlsate: {
-            halus: "angen",
-            tengah: "angen",
-            kasar: "angon"},
-        deskripsi: "Menjaga dan merawat ternak di padang rumput."},
+        indonesia: "ani-ani",
+        krama_inggil: "pugut",
+        krama: "pugut",
+        ngoko: "ani-ani",
+        deskripsi: "Alat tradisional untuk memanen padi."
+    },
     {
-        word: "ani-ani",
-        tranlsate: {
-            halus: "pugut",
-            tengah: "pugut",
-            kasar: "ani-ani"},
-        deskripsi: "Alat tradisional untuk memanen padi."},
+        indonesia: "muda",
+        krama_inggil: "ênêm",
+        krama: "ênêm",
+        ngoko: "anom",
+        deskripsi: "Berusia masih kecil atau belum tua."
+    },
     {
-        word: "muda",
-        tranlsate: {
-            halus: "ênêm",
-            tengah: "ênêm",
-            kasar: "anom"},
-        deskripsi: "Berusia masih kecil atau belum tua."},
+        indonesia: "antara",
+        krama_inggil: "antawis",
+        krama: "antawis",
+        ngoko: "antara",
+        deskripsi: "Di tengah-tengah dua atau lebih."
+    },
     {
-        word: "antara",
-        tranlsate: {
-            halus: "antawis",
-            tengah: "antawis",
-            kasar: "antara"},
-        deskripsi: "Di tengah-tengah dua atau lebih."},
+        indonesia: "ikut",
+        krama_inggil: "dherek",
+        krama: "tumut",
+        ngoko: "anut",
+        deskripsi: "Bersama atau menyertai."
+    },
     {
-        word: "ikut",
-        tranlsate: {
-            halus: "dherek",
-            tengah: "tumut",
-            kasar: "anut"},
-        deskripsi: "Bersama atau menyertai."},
+        indonesia: "baru",
+        krama_inggil: "enggal",
+        krama: "enggal",
+        ngoko: "anyar",
+        deskripsi: "Belum lama ada atau terjadi."
+    },
     {
-        word: "baru",
-        tranlsate: {
-            halus: "enggal",
-            tengah: "enggal",
-            kasar: "anyar"},
-        deskripsi: "Belum lama ada atau terjadi."},
+        indonesia: "apa",
+        krama_inggil: "punapa",
+        krama: "punapa",
+        ngoko: "apa",
+        deskripsi: "Sebuah kata tanya."
+    },
     {
-        word: "apa",
-        tranlsate: {
-            halus: "punapa",
-            tengah: "punapa",
-            kasar: "apa"},
-        deskripsi: "Kata tanya untuk menanyakan sesuatu."},
-    {
-        word: "baik",
-        tranlsate: {
-            halus: "sae",
-            tengah: "sae",
-            kasar: "apik"},
+        indonesia: "baik",
+        krama_inggil: "sae",
+        krama: "sae",
+        ngoko: "apik",
         deskripsi: "Bagus, tidak buruk."},
     {
-        word: "maaf",
-        tranlsate: {
-            halus: "apuntên",
-            tengah: "apuntên",
-            kasar: "apura"},
-        deskripsi: "Permohonan pengampunan atas kesalahan."},
-    {
-        word: "tujuan",
-        tranlsate: {
-            halus: "angkah",
-            tengah: "angkah",
-            kasar: "arah"},
-        deskripsi: "Sesuatu yang dituju atau dikehendaki."},
-    {
-        word: "nama",
-        tranlsate: {
-            halus: "asma",
-            tengah: "nama",
-            kasar: "aran"},
-        deskripsi: "Sebutan untuk seseorang atau sesuatu."},
-    {
-        word: "jarang",
-        tranlsate: {
-            halus: "jrang",
-            tengah: "awis",
-            kasar: "arang"},
-        deskripsi: "Tidak sering terjadi."},
-    {
-        word: "mau",
-        tranlsate: {
-            halus: "kêrsa",
-            tengah: "ajêng",
-            kasar: "arep"},
-        deskripsi: "Memiliki niat untuk melakukan sesuatu."},
-    {
-        word: "makna",
-        tranlsate: {
-            halus: "artos",
-            tengah: "artos",
-            kasar: "arti"},
-        deskripsi: "Pengertian atau maksud dari suatu kata atau hal."},
-    {
-        word: "rendah",
-        tranlsate: {
-            halus: "andhap",
-            tengah: "awon",
-            kasar: "asor"},
-        deskripsi: "Tidak tinggi atau berada di bawah."},
-    {
-        word: "anjing",
-        tranlsate: {
-            halus: "sêgawon",
-            tengah: "sêgawon",
-            kasar: "asu"},
-        deskripsi: "Hewan mamalia berkaki empat yang menggonggong."},
-    {
-        word: "hati",
-        tranlsate: {
-            halus: "penggalih",
-            tengah: "manah",
-            kasar: "ati"},
-        deskripsi: "Tempat timbulnya perasaan atau emosi."},
-    {
-        word: "sendawa",
-        tranlsate: {
-            halus: "sêgu",
-            tengah: "sêgu",
-            kasar: "atop"},
-        deskripsi: "Gas yang keluar dari mulut setelah makan."},
-    {
-        word: "beri",
-        tranlsate: {
-            halus: "maringi",
-            tengah: "nyukani",
-            kasar: "aweh"},
-        deskripsi: "Memberikan sesuatu kepada orang lain."},
-    {
-        word: "barangkali",
-        tranlsate: {
-            halus: "mbok mênawi",
-            tengah: "mbok mênawi",
-            kasar: "ayake"},
-        deskripsi: "Mungkin saja terjadi, kemungkinan."},
-    {
-        word: "marilah",
-        tranlsate: {
-            halus: "sumangga",
-            tengah: "mangga",
-            kasar: "ayo"},
-        deskripsi: "Ajakan untuk melakukan sesuatu bersama."},
-    {
-        word: "kemudian",
-        tranlsate: {
-            halus: "lajêng",
-            tengah: "lajêng",
-            kasar: "bacut"},
-        deskripsi: "Setelah itu, selanjutnya."},
-    {
-        word: "hanya",
-        tranlsate: {
-            halus: "kemawon",
-            tengah: "kemawon",
-            kasar: "bae"},
-        deskripsi: "Digunakan untuk membatasi sesuatu, tidak lebih dari itu."},
-    {
-        word: "akan",
-        tranlsate: {
-            halus: "badhe",
-            tengah: "badhe",
-            kasar: "bakal"},
-        deskripsi: "Mengindikasikan sesuatu yang akan terjadi."},
-    {
-        word: "nampan",
-        tranlsate: {
-            halus: "panadhahan",
-            tengah: "panadhahan",
-            kasar: "baki"},
-        deskripsi: "Alat berbentuk datar untuk menaruh makanan atau benda lainnya."},
-    {
-        word: "tembakau",
-        tranlsate: {
-            halus: "sata",
-            tengah: "sata",
-            kasar: "bako"},
-        deskripsi: "Daun kering yang digunakan untuk merokok."},
-    {
-        word: "pokok",
-        tranlsate: {
-            halus: "bakên",
-            tengah: "bakên",
-            kasar: "baku"},
-        deskripsi: "Inti atau dasar dari suatu hal."},
-    {
-        word: "kembali",
-        tranlsate: {
-            halus: "kondur",
-            tengah: "wangsul",
-            kasar: "bali"},
-        deskripsi: "Pergi ke tempat asal atau sebelumnya."},
-    {
-        word: "tulang",
-        tranlsate: {
-            halus: "tosan",
-            tengah: "tosan",
-            kasar: "balung"},
-        deskripsi: "Bagian keras dalam tubuh yang membentuk kerangka."},
-    {
-        word: "dibelenggu",
-        tranlsate: {
-            halus: "dipunbêsta",
-            tengah: "dipunbêsta",
-            kasar: "banda"},
-        deskripsi: "Dalam keadaan terikat atau dibatasi."},
-    {
-        word: "sangat",
-        tranlsate: {
-            halus: "sangêt",
-            tengah: "sangêt",
-            kasar: "bangêt"},
-        deskripsi: "Tingkat intensitas yang tinggi."},
-    {
-        word: "tidak menurut",
-        tranlsate: {
-            halus: "banggi",
-            tengah: "banggi",
-            kasar: "bangga"},
-        deskripsi: "Tidak taat atau tidak patuh pada perintah atau aturan."},
-    {
-        word: "pinggang",
-        tranlsate: {
-            halus: "wangkingan",
-            tengah: "wangkingan",
-            kasar: "bangkekan"},
-        deskripsi: "Bagian tubuh antara perut dan paha."},
-    {
-        word: "banjir",
-        tranlsate: {
-            halus: "bêna",
-            tengah: "bêna",
-            kasar: "banjir"},
-        deskripsi: "Air meluap menutupi permukaan tanah atau jalan."},
-    {
-        word: "lalu",
-        tranlsate: {
-            halus: "lajêng",
-            tengah: "lajêng",
-            kasar: "banjur"},
-        deskripsi: "Menunjukkan urutan waktu; sesudah itu."},
-    {
-        word: "bantal",
-        tranlsate: {
-            halus: "kajang",
-            tengah: "kajang",
-            kasar: "bantal"},
-        deskripsi: "Alas kepala saat tidur, biasanya berisi kapuk atau busa."},
-    {
-        word: "air",
-        tranlsate: {
-            halus: "toya",
-            tengah: "toya",
-            kasar: "banyu"},
-        deskripsi: "Zat cair yang digunakan untuk minum, mandi, mencuci, dll."},
-    {
-        word: "bapak",
-        tranlsate: {
-            halus: "rama",
-            tengah: "bapak",
-            kasar: "bapa"},
-        deskripsi: "Orang tua laki-laki."},
-    {
-        word: "bersama",
-        tranlsate: {
-            halus: "sarêng",
-            tengah: "sarêng",
-            kasar: "barêng"},
-        deskripsi: "Melakukan sesuatu secara berbarengan."},
-    {
-        word: "sulung",
-        tranlsate: {
-            halus: "pambayun",
-            tengah: "pambajêng",
-            kasar: "barêp"},
-        deskripsi: "Anak pertama dari suatu keluarga."},
-    {
-        word: "batu bata",
-        tranlsate: {
-            halus: "banon",
-            tengah: "banon",
-            kasar: "bata"},
-        deskripsi: "Material bangunan dari tanah liat yang dibakar."},
-    {
-        word: "batik",
-        tranlsate: {
-            halus: "sêrat",
-            tengah: "sêrat",
-            kasar: "bathik"},
-        deskripsi: "Kain bergambar dengan teknik pewarnaan tertentu."},
-    {
-        word: "dahi",
-        tranlsate: {
-            halus: "palarapan",
-            tengah: "palarapan",
-            kasar: "bathuk"},
-        deskripsi: "Bagian wajah di atas alis."},
-    {
-        word: "batin",
-        tranlsate: {
-            halus: "batos",
-            tengah: "batos",
-            kasar: "batin"},
-        deskripsi: "Perasaan atau isi hati yang terdalam."},
-    {
-        word: "hamba",
-        tranlsate: {
-            halus: "abdi",
-            tengah: "rencang",
-            kasar: "batur"},
-        deskripsi: "Orang yang melayani atau bekerja untuk orang lain."},
-    {
-        word: "itik",
-        tranlsate: {
-            halus: "kambangan",
-            tengah: "kambangan",
-            kasar: "bebek"},
-        deskripsi: "Jenis unggas yang biasa hidup di air."},
-    {
-        word: "beda",
-        tranlsate: {
-            halus: "bêntên",
-            tengah: "bêntên",
-            kasar: "beda"},
-        deskripsi: "Tidak sama atau berlainan."},
-    {
-        word: "biarlah",
-        tranlsate: {
-            halus: "kêrsanipun",
-            tengah: "kajêngipun",
-            kasar: "ben"},
-        deskripsi: "Menyatakan perkenanan atau membiarkan sesuatu terjadi."},
-    {
-        word: "besuk",
-        tranlsate: {
-            halus: "benjing",
-            tengah: "benjing",
-            kasar: "besuk"},
-        deskripsi: "Hari setelah hari ini; esok."},
-    {
-        word: "jarik (untuk pria)",
-        tranlsate: {
-            halus: "nyamping",
-            tengah: "nyamping",
-            kasar: "bêbêd"},
-        deskripsi: "Kain panjang yang dikenakan pria sebagai bawahan tradisional."},
-    {
-        word: "buang air besar",
-        tranlsate: {
-            halus: "bobotan",
-            tengah: "bêbucal",
-            kasar: "bêbuwang"},
-        deskripsi: "Kegiatan mengeluarkan kotoran dari tubuh melalui anus."},
-    {
-        word: "baik",
-        tranlsate: {
-            halus: "sae",
-            tengah: "sae",
-            kasar: "bêcik"},
-        deskripsi: "Keadaan yang positif atau menyenangkan."},
-    {
-        word: "senjata",
-        tranlsate: {
-            halus: "sênjata",
-            tengah: "sênjata",
-            kasar: "bêdhil"},
-        deskripsi: "Alat untuk menyerang atau mempertahankan diri."},
-    {
-        word: "pipa rokok",
-        tranlsate: {
-            halus: "watangan",
-            tengah: "watangan",
-            kasar: "bêdudan"},
-        deskripsi: "Alat berbentuk pipa kecil untuk merokok."},
-    {
-        word: "benar",
-        tranlsate: {
-            halus: "kasinggihan",
-            tengah: "lêrês",
-            kasar: "bênêr"},
-        deskripsi: "Sesuai dengan kenyataan atau kebenaran."},
-    {
-        word: "malam",
-        tranlsate: {
-            halus: "dalu",
-            tengah: "dalu",
-            kasar: "bêngi"},
-        deskripsi: "Waktu setelah matahari terbenam hingga pagi."},
-    {
-        word: "beras",
-        tranlsate: {
-            halus: "wos",
-            tengah: "wos",
-            kasar: "bêras"},
-        deskripsi: "Butiran hasil penggilingan padi yang siap dimasak."},
-    {
-        word: "bisa",
-        tranlsate: {
-            halus: "sagêd",
-            tengah: "sagêd",
-            kasar: "bisa"},
-        deskripsi: "Mampu melakukan sesuatu."},
-    {
-        word: "dulu",
-        tranlsate: {
-            halus: "rumiyin",
-            tengah: "riyin",
-            kasar: "biyen"},
-        deskripsi: "Pada waktu yang telah lewat."},
-    {
-        word: "ibu",
-        tranlsate: {
-            halus: "ibu",
-            tengah: "ibu",
-            kasar: "biyung"},
-        deskripsi: "Perempuan yang melahirkan anak."},
-    {
-        word: "beratnya",
-        tranlsate: {
-            halus: "wawratipun",
-            tengah: "wawratipun",
-            kasar: "bobot"},
-        deskripsi: "Tingkat berat suatu benda atau tubuh."},
-    {
-        word: "anak",
-        tranlsate: {
-            halus: "lare",
-            tengah: "lare",
-            kasar: "bocah"},
-        deskripsi: "Keturunan dari orang tua, manusia yang masih kecil."},
-    {
-        word: "suami/istri",
-        tranlsate: {
-            halus: "garwa",
-            tengah: "semah",
-            kasar: "bojo"},
-        deskripsi: "Pasangan hidup dalam pernikahan."},
-    {
-        word: "bokong",
-        tranlsate: {
-            halus: "pocong",
-            tengah: "pocong",
-            kasar: "bokong"},
-        deskripsi: "Bagian tubuh di belakang, tempat duduk."},
-    {
-        word: "benang",
-        tranlsate: {
-            halus: "bênang",
-            tengah: "bênang",
-            kasar: "bolah"},
-        deskripsi: "Serat panjang yang digunakan untuk menjahit atau menenun."},
-    {
-        word: "bedak",
-        tranlsate: {
-            halus: "konyoh",
-            tengah: "konyoh",
-            kasar: "boreh"},
-        deskripsi: "Serbuk halus untuk wajah atau tubuh."},
-    {
-        word: "kumis",
-        tranlsate: {
-            halus: "rawis",
-            tengah: "rawis",
-            kasar: "brengos"},
-        deskripsi: "Rambut yang tumbuh di atas bibir atas."},
-    {
-        word: "selesai",
-        tranlsate: {
-            halus: "bibar",
-            tengah: "bibar",
-            kasar: "bubar"},
-        deskripsi: "Telah berakhir atau rampung."},
-    {
-        word: "rusak",
-        tranlsate: {
-            halus: "bibrah",
-            tengah: "bibrah",
-            kasar: "bubrah"},
-        deskripsi: "Tidak berfungsi sebagaimana mestinya; hancur."},
-    {
-        word: "budi",
-        tranlsate: {
-            halus: "pênggalih",
-            tengah: "manah",
-            kasar: "budi"},
-        deskripsi: "Akal atau pikiran manusia untuk membedakan baik-buruk."},
-    {
-        word: "berangkat",
-        tranlsate: {
-            halus: "bidhal",
-            tengah: "bidhal",
-            kasar: "budhal"},
-        deskripsi: "Pergi menuju suatu tempat."},
-    {
-        word: "buka",
-        tranlsate: {
-            halus: "bikak",
-            tengah: "bikak",
-            kasar: "bukak"},
-        deskripsi: "Membuka sesuatu yang tertutup atau tertutup rapat."},
-    {
-        word: "gembira",
-        tranlsate: {
-            halus: "rêna",
-            tengah: "bingah",
-            kasar: "bungah"},
-        deskripsi: "Merasa sangat senang atau bahagia."},
-    {
-        word: "belakang",
-        tranlsate: {
-            halus: "wingking",
-            tengah: "wingking",
-            kasar: "buri"},
-        deskripsi: "Bagian yang terletak di sisi berlawanan dari depan."},
-    {
-        word: "buru",
-        tranlsate: {
-            halus: "bujêng",
-            tengah: "bujêng",
-            kasar: "buru"},
-        deskripsi: "Mengejar atau mencari secara cepat."},
-    {
-        word: "buruh",
-        tranlsate: {
-            halus: "bêrah",
-            tengah: "bêrah",
-            kasar: "buruh"},
-        deskripsi: "Pekerja, terutama di bidang fisik atau produksi."},
-    {
-        word: "raksasa",
-        tranlsate: {
-            halus: "danawa",
-            tengah: "danawa",
-            kasar: "buta"},
-        deskripsi: "Makhluk besar dan kuat dalam cerita rakyat atau mitos."},
-    {
-        word: "butuh",
-        tranlsate: {
-            halus: "bêtah",
-            tengah: "bêtah",
-            kasar: "butuh"},
-        deskripsi: "Memerlukan atau membutuhkan sesuatu."},
-    {
-        word: "buang",
-        tranlsate: {
-            halus: "bucal",
-            tengah: "bucal",
-            kasar: "buwang"},
-        deskripsi: "Membuang sesuatu agar tidak dipakai lagi."},
-    {
-        word: "selesai",
-        tranlsate: {
-            halus: "rampung",
-            tengah: "rampung",
-            kasar: "buyar"},
-        deskripsi: "Sudah diselesaikan atau tidak bersisa lagi."},
-    {
-        word: "berbicara",
-        tranlsate: {
-            halus: "ngandika",
-            tengah: "wicantên",
-            kasar: "calathu"},
-        deskripsi: "Mengungkapkan pikiran atau perasaan lewat kata-kata."},
-    {
-        word: "mulut",
-        tranlsate: {
-            halus: "tutuk",
-            tengah: "lesan",
-            kasar: "cangkêm"},
-        deskripsi: "Bagian tubuh untuk makan dan bicara."},
-    {
-        word: "cangkir",
-        tranlsate: {
-            halus: "tuwung",
-            tengah: "tuwung",
-            kasar: "cangkir"},
-        deskripsi: "Wadah kecil untuk minuman seperti teh atau kopi."},
-    {
-        word: "cerita",
-        tranlsate: {
-            halus: "cariyos",
-            tengah: "cariyos",
-            kasar: "carita"},
-        deskripsi: "Pengisahan tentang kejadian atau peristiwa."},
-    {
-        word: "omongan",
-        tranlsate: {
-            halus: "ngendikan",
-            tengah: "wicantên",
-            kasar: "caturan"},
-        deskripsi: "Ucapan atau pembicaraan."},
-    {
-        word: "disiapkan",
-        tranlsate: {
-            halus: "caosaken",
-            tengah: "cawisaken",
-            kasar: "cawis"},
-        deskripsi: "Sudah dipersiapkan sebelumnya."},
-    {
-        word: "babi hutan",
-        tranlsate: {
-            halus: "andhapan",
-            tengah: "andhapan",
-            kasar: "celeng"},
-        deskripsi: "Hewan liar seperti babi yang hidup di hutan."},
-    {
-        word: "bercebok",
-        tranlsate: {
-            halus: "cawik",
-            tengah: "cawik",
-            kasar: "cewok"},
-        deskripsi: "Membersihkan diri setelah buang air besar."},
-    {
-        word: "dekat",
-        tranlsate: {
-            halus: "cêlak",
-            tengah: "cêlak",
-            kasar: "cêdhak"},
-        deskripsi: "Tidak jauh, dalam jarak pendek."},
-    {
-        word: "dipegang",
-        tranlsate: {
-            halus: "dipunasta",
-            tengah: "cêpêng",
-            kasar: "cêkêl"},
-        deskripsi: "Digenggam atau dipegang dengan tangan."},
-    {
-        word: "pendek",
-        tranlsate: {
-            halus: "andhap",
-            tengah: "andhap",
-            kasar: "cêndhek"},
-        deskripsi: "Tidak tinggi atau panjang."},
-    {
-        word: "tengkuk",
-        tranlsate: {
-            halus: "griwa",
-            tengah: "griwa",
-            kasar: "cêngêl"},
-        deskripsi: "Bagian belakang leher."},
-    {
-        word: "cepat",
-        tranlsate: {
-            halus: "enggal",
-            tengah: "enggal",
-            kasar: "cêpêt"},
-        deskripsi: "Dengan kecepatan tinggi, tidak lambat."},
-    {
-        word: "kecil",
-        tranlsate: {
-            halus: "alit",
-            tengah: "alit",
-            kasar: "cilik"},
-        deskripsi: "Berukuran tidak besar."},
-    {
-        word: "coba",
-        tranlsate: {
-            halus: "cobi",
-            tengah: "cobi",
-            kasar: "coba"},
-        deskripsi: "Melakukan sesuatu untuk pertama kali atau untuk menguji."},
-    {
-        word: "cerita",
-        tranlsate: {
-            halus: "criyos",
-            tengah: "criyos",
-            kasar: "crita"},
-        deskripsi: "Kisah atau narasi suatu peristiwa."},
-    {
-        word: "lepas baju",
-        tranlsate: {
-            halus: "lukar",
-            tengah: "lukar",
-            kasar: "cucul"},
-        deskripsi: "Membuka pakaian dari tubuh."},
-    {
-        word: "cukup",
-        tranlsate: {
-            halus: "cêkap",
-            tengah: "cêkap",
-            kasar: "cukup"},
-        deskripsi: "Tidak kurang dan tidak lebih; sesuai kebutuhan."},
-    {
-        word: "bercukur",
-        tranlsate: {
-            halus: "paras",
-            tengah: "pangkas",
-            kasar: "cukur"},
-        deskripsi: "Memotong rambut atau bulu, biasanya di wajah."},
-    {
-        word: "setubuh",
-        tranlsate: {
-            halus: "saresmi",
-            tengah: "saresmi",
-            kasar: "cumbana"},
-        deskripsi: "Melakukan hubungan seksual antara pria dan wanita."},
-    {
-        word: "sunting",
-        tranlsate: {
-            halus: "sangsangan",
-            tengah: "sangsangan",
-            kasar: "cundhuk"},
-        deskripsi: "Perhiasan rambut yang biasanya dipakai oleh wanita."},
-    {
-        word: "pijit",
-        tranlsate: {
-            halus: "ginda",
-            tengah: "ginda",
-            kasar: "dadah"},
-        deskripsi: "Memberi tekanan atau urutan pada tubuh untuk mengurangi nyeri atau pegal."},
-    {
-        word: "jadi",
-        tranlsate: {
-            halus: "dados",
-            tengah: "dados",
-            kasar: "dadi"},
-        deskripsi: "Berubah menjadi sesuatu atau mencapai suatu kondisi."},
-    {
-        word: "dagang",
-        tranlsate: {
-            halus: "gramen",
-            tengah: "gramen",
-            kasar: "dagang"},
-        deskripsi: "Kegiatan jual beli barang atau jasa."},
-    {
-        word: "jalan",
-        tranlsate: {
-            halus: "margi",
-            tengah: "radinan",
-            kasar: "dalan"},
-        deskripsi: "Tempat untuk lalu lintas orang atau kendaraan."},
-    {
-        word: "berhias",
-        tranlsate: {
-            halus: "busana",
-            tengah: "dandos",
-            kasar: "dandan"},
-        deskripsi: "Mempercantik diri dengan pakaian atau riasan."},
-    {
-        word: "pelaksanaan tugas",
-        tranlsate: {
-            halus: "darmi",
-            tengah: "darmi",
-            kasar: "darma"},
-        deskripsi: "Tindakan menjalankan kewajiban atau pekerjaan."},
-    {
-        word: "panjang",
-        tranlsate: {
-            halus: "panjang",
-            tengah: "panjang",
-            kasar: "dawa"},
-        deskripsi: "Memiliki ukuran memanjang, tidak pendek."},
-    {
-        word: "taruh",
-        tranlsate: {
-            halus: "paring",
-            tengah: "suka",
-            kasar: "deleh"},
-        deskripsi: "Meletakkan sesuatu di suatu tempat."},
-    {
-        word: "desa",
-        tranlsate: {
-            halus: "dhusun",
-            tengah: "dhusun",
-            kasar: "desa"},
-        deskripsi: "Wilayah permukiman kecil di luar kota."},
-    {
-        word: "lihat",
-        tranlsate: {
-            halus: "priksa",
-            tengah: "tingal",
-            kasar: "dêlêng"},
-        deskripsi: "Mengamati dengan mata."},
-    {
-        word: "amal",
-        tranlsate: {
-            halus: "drêma",
-            tengah: "drêma",
-            kasar: "dêrma"},
-        deskripsi: "Perbuatan baik yang dilakukan secara sukarela."},
-    {
-        word: "dada",
-        tranlsate: {
-            halus: "jaja",
-            tengah: "jaja",
-            kasar: "dhadha"},
-        deskripsi: "Bagian tubuh depan antara leher dan perut."},
-    {
-        word: "tamu",
-        tranlsate: {
-            halus: "tamu",
-            tengah: "tamu",
-            kasar: "dhayoh"},
-        deskripsi: "Orang yang datang berkunjung ke suatu tempat."},
-    {
-        word: "pada waktu",
-        tranlsate: {
-            halus: "kala",
-            tengah: "kala",
-            kasar: "dhêk"},
-        deskripsi: "Menunjukkan waktu saat suatu hal terjadi."},
-    {
-        word: "senang",
-        tranlsate: {
-            halus: "rêmên",
-            tengah: "rêmên",
-            kasar: "dhêmên"},
-        deskripsi: "Merasa gembira atau puas."},
-    {
-        word: "lutut",
-        tranlsate: {
-            halus: "jêngku",
-            tengah: "jêngku",
-            kasar: "dhêngkul"},
-        deskripsi: "Bagian tubuh yang menghubungkan paha dan betis."},
-    {
-        word: "tahu",
-        tranlsate: {
-            halus: "priksa",
-            tengah: "sumêrêp",
-            kasar: "dhêngêr"},
-        deskripsi: "Mengerti atau memahami sesuatu."},
-    {
-        word: "sendiri",
-        tranlsate: {
-            halus: "piyambak",
-            tengah: "piyambak",
-            kasar: "dhewe"},
-        deskripsi: "Tanpa ditemani atau tanpa bantuan orang lain."},
-    {
-        word: "ketika",
-        tranlsate: {
-            halus: "nalika",
-            tengah: "nalika",
-            kasar: "dhek kala"},
-        deskripsi: "Saat atau waktu ketika sesuatu terjadi."},
-    {
-        word: "dahulu",
-        tranlsate: {
-            halus: "rumiyin",
-            tengah: "rumiyin",
-            kasar: "dhisik"},
-        deskripsi: "Sebelum waktu sekarang."},
-    {
-        word: "turun",
-        tranlsate: {
-            halus: "mandhap",
-            tengah: "mandhap",
-            kasar: "dhun"},
-        deskripsi: "Bergerak ke arah bawah."},
-    {
-        word: "uang",
-        tranlsate: {
-            halus: "arta",
-            tengah: "yatra",
-            kasar: "dhuwit"},
-        deskripsi: "Alat tukar resmi dalam transaksi ekonomi."},
-    {
-        word: "tinggi",
-        tranlsate: {
-            halus: "luhur",
-            tengah: "inggil",
-            kasar: "dhuwur"},
-        deskripsi: "Berlokasi jauh dari dasar atau permukaan tanah."},
-    {
-        word: "hari",
-        tranlsate: {
-            halus: "dintên",
-            tengah: "dintên",
-            kasar: "dina"},
-        deskripsi: "Satuan waktu selama 24 jam."},
-    {
-        word: "lampu",
-        tranlsate: {
-            halus: "dilah",
-            tengah: "dilah",
-            kasar: "diyan"},
-        deskripsi: "Alat yang digunakan untuk penerangan."},
-    {
-        word: "samparan",
-        tranlsate: {
-            halus: "samparan",
-            tengah: "samparan",
-            kasar: "dlamakan"},
-        deskripsi: "Tempat yang dipakai untuk duduk atau beristirahat."},
-    {
-        word: "kertas",
-        tranlsate: {
-            halus: "dlancang",
-            tengah: "dlancang",
-            kasar: "dluwang"},
-        deskripsi: "Lembar tipis untuk menulis atau mencetak."},
-    {
-        word: "dodot",
-        tranlsate: {
-            halus: "kampuh",
-            tengah: "kampuh",
-            kasar: "dodod"},
-        deskripsi: "Kain adat panjang untuk upacara atau pernikahan."},
-    {
-        word: "taruh",
-        tranlsate: {
-            halus: "paring",
-            tengah: "dekek",
-            kasar: "dokok"},
-        deskripsi: "Menempatkan sesuatu di suatu tempat."},
-    {
-        word: "jual",
-        tranlsate: {
-            halus: "sade",
-            tengah: "sade",
-            kasar: "dol"},
-        deskripsi: "Menawarkan barang atau jasa dengan imbalan uang."},
-    {
-        word: "main-main",
-        tranlsate: {
-            halus: "amêng-amêng",
-            tengah: "amêng-amêng",
-            kasar: "dolan"},
-        deskripsi: "Melakukan kegiatan santai atau hiburan."},
-    {
-        word: "jarum",
-        tranlsate: {
-            halus: "jarum",
-            tengah: "jarum",
-            kasar: "dom"},
-        deskripsi: "Alat tajam kecil untuk menjahit atau menusuk."},
-    {
-        word: "mau",
-        tranlsate: {
-            halus: "kêrsa",
-            tengah: "purun",
-            kasar: "doyan"},
-        deskripsi: "Memiliki keinginan atau bersedia melakukan sesuatu."},
-    {
-        word: "jari",
-        tranlsate: {
-            halus: "racikan",
-            tengah: "racikan",
-            kasar: "driji"},
-        deskripsi: "Bagian tangan atau kaki yang panjang dan lentur."},
-    {
-        word: "mengadu",
-        tranlsate: {
-            halus: "ngaben",
-            tengah: "ngedu",
-            kasar: "du"},
-        deskripsi: "Melaporkan atau mempertemukan dua pihak untuk bersaing."},
-    {
-        word: "bukan",
-        tranlsate: {
-            halus: "sanes",
-            tengah: "sanes",
-            kasar: "dudu"},
-        deskripsi: "Menolak atau menyangkal suatu pernyataan."},
-    {
-        word: "duga",
-        tranlsate: {
-            halus: "dugi",
-            tengah: "dugi",
-            kasar: "duga"},
-        deskripsi: "Mempunyai perkiraan tentang sesuatu."},
-    {
-        word: "menyuapi",
-        tranlsate: {
-            halus: "ndahari",
-            tengah: "ndulang",
-            kasar: "dulang"},
-        deskripsi: "Memberi makan kepada orang lain secara langsung ke mulut."},
-    {
-        word: "saudara",
-        tranlsate: {
-            halus: "santana",
-            tengah: "dherek",
-            kasar: "dulur"},
-        deskripsi: "Orang yang berasal dari satu keluarga atau keturunan."},
-    {
-        word: "belum",
-        tranlsate: {
-            halus: "dereng",
-            tengah: "dereng",
-            kasar: "durung"},
-        deskripsi: "Belum terjadi atau dilakukan hingga saat ini."},
-    {
-        word: "punya",
-        tranlsate: {
-            halus: "kagungan",
-            tengah: "gadhah",
-            kasar: "duwe"},
-        deskripsi: "Memiliki sesuatu sebagai milik."},
-    {
-        word: "gila",
-        tranlsate: {
-            halus: "gêrah ewah",
-            tengah: "ewah",
-            kasar: "edan"},
-        deskripsi: "Gangguan mental atau perilaku di luar kewajaran."},
-    {
-        word: "jelek",
-        tranlsate: {
-            halus: "awon",
-            tengah: "awon",
-            kasar: "elek"},
-        deskripsi: "Tidak enak dipandang, bertentangan dengan baik."},
-    {
-        word: "ingat",
-        tranlsate: {
-            halus: "emut",
-            tengah: "emut",
-            kasar: "eling"},
-        deskripsi: "Tidak lupa; mampu mengenang sesuatu."},
-    {
-        word: "ilmu",
-        tranlsate: {
-            halus: "elmi",
-            tengah: "elmi",
-            kasar: "elmu"},
-        deskripsi: "Pengetahuan atau wawasan tentang suatu hal."},
-    {
-        word: "ikut",
-        tranlsate: {
-            halus: "ndherek",
-            tengah: "tumut",
-            kasar: "elu"},
-        deskripsi: "Bersama-sama dalam kegiatan atau perjalanan."},
-    {
-        word: "enak",
-        tranlsate: {
-            halus: "eca",
-            tengah: "eca",
-            kasar: "enak"},
-        deskripsi: "Memberi rasa senang atau nikmat."},
-    {
-        word: "tapak tangan",
-        tranlsate: {
-            halus: "tapak asta",
-            tengah: "tapak asta",
-            kasar: "epek-epek"},
-        deskripsi: "Bagian bawah tangan yang digunakan untuk memegang."},
-    {
-        word: "hitung",
-        tranlsate: {
-            halus: "etang",
-            tengah: "etang",
-            kasar: "etung"},
-        deskripsi: "Menjumlahkan atau menghitung nilai atau angka."},
-    {
-        word: "pagi",
-        tranlsate: {
-            halus: "enjing",
-            tengah: "enjing",
-            kasar: "esuk"},
-        deskripsi: "Waktu dari matahari terbit hingga menjelang siang."},
-    {
-        word: "repot",
-        tranlsate: {
-            halus: "êwêd",
-            tengah: "êwêd",
-            kasar: "ewuh"},
-        deskripsi: "Mengalami banyak kesulitan atau kerepotan."},
-    {
-        word: "menjauh",
-        tranlsate: {
-            halus: "nêbih",
-            tengah: "nêbih",
-            kasar: "êdoh"},
-        deskripsi: "Menjauhi sesuatu atau seseorang."},
+        indonesia: "maaf",
+        krama_inggil: "apuntên",
+        krama: "apuntên",
+        ngoko: "apura",
+        deskripsi: "Permohonan pengampunan atas kesalahan."
+    },
+    {
+        indonesia: "tujuan",
+        krama_inggil: "angkah",
+        krama: "angkah",
+        ngoko: "arah",
+        deskripsi: "Sesuatu yang dituju atau dikehendaki."
+    },
+    {
+        indonesia: "nama",
+        krama_inggil: "asma",
+        krama: "nama",
+        ngoko: "aran",
+        deskripsi: "Sebutan untuk seseorang atau sesuatu."
+    },
+    {
+        indonesia: "jarang",
+        krama_inggil: "jrang",
+        krama: "awis",
+        ngoko: "arang",
+        deskripsi: "Tidak sering terjadi."
+    },
+    {
+        indonesia: "mau",
+        krama_inggil: "kêrsa",
+        krama: "ajêng",
+        ngoko: "arep",
+        deskripsi: "Memiliki niat untuk melakukan sesuatu."
+    },
+    {
+        indonesia: "makna",
+        krama_inggil: "artos",
+        krama: "artos",
+        ngoko: "arti",
+        deskripsi: "Pengertian atau maksud dari suatu kata atau hal."
+    },
+    {
+        indonesia: "rendah",
+        krama_inggil: "andhap",
+        krama: "awon",
+        ngoko: "asor",
+        deskripsi: "Tidak tinggi atau berada di bawah."
+    },
+    {
+        indonesia: "anjing",
+        krama_inggil: "sêgawon",
+        krama: "sêgawon",
+        ngoko: "asu",
+        deskripsi: "Hewan mamalia berkaki empat yang menggonggong."
+    },
+    {
+        indonesia: "hati",
+        krama_inggil: "penggalih",
+        krama: "manah",
+        ngoko: "ati",
+        deskripsi: "Tempat timbulnya perasaan atau emosi."
+    },
+    {
+        indonesia: "sendawa",
+        krama_inggil: "sêgu",
+        krama: "sêgu",
+        ngoko: "atop",
+        deskripsi: "Gas yang keluar dari mulut setelah makan."
+    },
+    {
+        indonesia: "beri",
+        krama_inggil: "maringi",
+        krama: "nyukani",
+        ngoko: "aweh",
+        deskripsi: "Memberikan sesuatu kepada orang lain."
+    },
+    {
+        indonesia: "barangkali",
+        krama_inggil: "mbok mênawi",
+        krama: "mbok mênawi",
+        ngoko: "ayake",
+        deskripsi: "Mungkin saja terjadi, kemungkinan."
+    },
+    {
+        indonesia: "marilah",
+        krama_inggil: "sumangga",
+        krama: "mangga",
+        ngoko: "ayo",
+        deskripsi: "Ajakan untuk melakukan sesuatu bersama."
+    },
+    {
+        indonesia: "kemudian",
+        krama_inggil: "lajêng",
+        krama: "lajêng",
+        ngoko: "bacut",
+        deskripsi: "Setelah itu, selanjutnya."
+    },
+    {
+        indonesia: "hanya",
+        krama_inggil: "kemawon",
+        krama: "kemawon",
+        ngoko: "bae",
+        deskripsi: "Digunakan untuk membatasi sesuatu, tidak lebih dari itu."
+    },
+    {
+        indonesia: "akan",
+        krama_inggil: "badhe",
+        krama: "badhe",
+        ngoko: "bakal",
+        deskripsi: "Mengindikasikan sesuatu yang akan terjadi."
+    },
+    {
+        indonesia: "nampan",
+        krama_inggil: "panadhahan",
+        krama: "panadhahan",
+        ngoko: "baki",
+        deskripsi: "Alat berbentuk datar untuk menaruh makanan atau benda lainnya."
+    },
+    {
+        indonesia: "tembakau",
+        krama_inggil: "sata",
+        krama: "sata",
+        ngoko: "bako",
+        deskripsi: "Daun kering yang digunakan untuk merokok."
+    },
+    {
+        indonesia: "pokok",
+        krama_inggil: "bakên",
+        krama: "bakên",
+        ngoko: "baku",
+        deskripsi: "Inti atau dasar dari suatu hal."
+    },
+    {
+        indonesia: "kembali",
+        krama_inggil: "kondur",
+        krama: "wangsul",
+        ngoko: "bali",
+        deskripsi: "Pergi ke tempat asal atau sebelumnya."
+    },
+    {
+        indonesia: "tulang",
+        krama_inggil: "tosan",
+        krama: "tosan",
+        ngoko: "balung",
+        deskripsi: "Bagian keras dalam tubuh yang membentuk kerangka."
+    },
+    {
+        indonesia: "dibelenggu",
+        krama_inggil: "dipunbêsta",
+        krama: "dipunbêsta",
+        ngoko: "banda",
+        deskripsi: "Dalam keadaan terikat atau dibatasi."
+    },
+    {
+        indonesia: "sangat",
+        krama_inggil: "sangêt",
+        krama: "sangêt",
+        ngoko: "bangêt",
+        deskripsi: "Tingkat intensitas yang tinggi."
+    },
+    {
+        indonesia: "tidak menurut",
+        krama_inggil: "banggi",
+        krama: "banggi",
+        ngoko: "bangga",
+        deskripsi: "Tidak taat atau tidak patuh pada perintah atau aturan."
+    },
+    {
+        indonesia: "pinggang",
+        krama_inggil: "wangkingan",
+        krama: "wangkingan",
+        ngoko: "bangkekan",
+        deskripsi: "Bagian tubuh antara perut dan paha."
+    },
+    {
+        indonesia: "banjir",
+        krama_inggil: "bêna",
+        krama: "bêna",
+        ngoko: "banjir",
+        deskripsi: "Air meluap menutupi permukaan tanah atau jalan."
+    },
+    {
+        indonesia: "lalu",
+        krama_inggil: "lajêng",
+        krama: "lajêng",
+        ngoko: "banjur",
+        deskripsi: "Menunjukkan urutan waktu; sesudah itu."
+    },
+    {
+        indonesia: "bantal",
+        krama_inggil: "kajang",
+        krama: "kajang",
+        ngoko: "bantal",
+        deskripsi: "Alas kepala saat tidur, biasanya berisi kapuk atau busa."
+    },
+    {
+        indonesia: "air",
+        krama_inggil: "toya",
+        krama: "toya",
+        ngoko: "banyu",
+        deskripsi: "Zat cair yang digunakan untuk minum, mandi, mencuci, dll."
+    },
+    {
+        indonesia: "bapak",
+        krama_inggil: "rama",
+        krama: "bapak",
+        ngoko: "bapa",
+        deskripsi: "Orang tua laki-laki."
+    },
+    {
+        indonesia: "bersama",
+        krama_inggil: "sarêng",
+        krama: "sarêng",
+        ngoko: "barêng",
+        deskripsi: "Melakukan sesuatu secara berbarengan."
+    },
+    {
+        indonesia: "sulung",
+        krama_inggil: "pambayun",
+        krama: "pambajêng",
+        ngoko: "barêp",
+        deskripsi: "Anak pertama dari suatu keluarga."
+    },
+    {
+        indonesia: "batu bata",
+        krama_inggil: "banon",
+        krama: "banon",
+        ngoko: "bata",
+        deskripsi: "Material bangunan dari tanah liat yang dibakar."
+    },
+    {
+        indonesia: "batik",
+        krama_inggil: "sêrat",
+        krama: "sêrat",
+        ngoko: "bathik",
+        deskripsi: "Kain bergambar dengan teknik pewarnaan tertentu."
+    },
+    {
+        indonesia: "dahi",
+        krama_inggil: "palarapan",
+        krama: "palarapan",
+        ngoko: "bathuk",
+        deskripsi: "Bagian wajah di atas alis."
+    },
+    {
+        indonesia: "batin",
+        krama_inggil: "batos",
+        krama: "batos",
+        ngoko: "batin",
+        deskripsi: "Perasaan atau isi hati yang terdalam."
+    },
+    {
+        indonesia: "hamba",
+        krama_inggil: "abdi",
+        krama: "rencang",
+        ngoko: "batur",
+        deskripsi: "Orang yang melayani atau bekerja untuk orang lain."
+    },
+    {
+        indonesia: "itik",
+        krama_inggil: "kambangan",
+        krama: "kambangan",
+        ngoko: "bebek",
+        deskripsi: "Jenis unggas yang biasa hidup di air."
+    },
+    {
+        indonesia: "beda",
+        krama_inggil: "bêntên",
+        krama: "bêntên",
+        ngoko: "beda",
+        deskripsi: "Tidak sama atau berlainan."
+    },
+    {
+        indonesia: "biarlah",
+        krama_inggil: "kêrsanipun",
+        krama: "kajêngipun",
+        ngoko: "ben",
+        deskripsi: "Menyatakan perkenanan atau membiarkan sesuatu terjadi."
+    },
+    {
+        indonesia: "besuk",
+        krama_inggil: "benjing",
+        krama: "benjing",
+        ngoko: "besuk",
+        deskripsi: "Hari setelah hari ini; esok."
+    },
+    {
+        indonesia: "jarik (untuk pria)",
+        krama_inggil: "nyamping",
+        krama: "nyamping",
+        ngoko: "bêbêd",
+        deskripsi: "Kain panjang yang dikenakan pria sebagai bawahan tradisional."
+    },
+    {
+        indonesia: "buang air besar",
+        krama_inggil: "bobotan",
+        krama: "bêbucal",
+        ngoko: "bêbuwang",
+        deskripsi: "Kegiatan mengeluarkan kotoran dari tubuh melalui anus."
+    },
+    {
+        indonesia: "baik",
+        krama_inggil: "sae",
+        krama: "sae",
+        ngoko: "bêcik",
+        deskripsi: "Keadaan yang positif atau menyenangkan."
+    },
+    {
+        indonesia: "senjata",
+        krama_inggil: "sênjata",
+        krama: "sênjata",
+        ngoko: "bêdhil",
+        deskripsi: "Alat untuk menyerang atau mempertahankan diri."
+    },
+    {
+        indonesia: "pipa rokok",
+        krama_inggil: "watangan",
+        krama: "watangan",
+        ngoko: "bêdudan",
+        deskripsi: "Alat berbentuk pipa kecil untuk merokok."
+    },
+    {
+        indonesia: "benar",
+        krama_inggil: "kasinggihan",
+        krama: "lêrês",
+        ngoko: "bênêr",
+        deskripsi: "Sesuai dengan kenyataan atau kebenaran."
+    },
+    {
+        indonesia: "malam",
+        krama_inggil: "dalu",
+        krama: "dalu",
+        ngoko: "bêngi",
+        deskripsi: "Waktu setelah matahari terbenam hingga pagi."
+    },
+    {
+        indonesia: "bisa",
+        krama_inggil: "sagêd",
+        krama: "sagêd",
+        ngoko: "bisa",
+        deskripsi: "Mampu melakukan sesuatu."
+    },
+    {
+        indonesia: "dulu",
+        krama_inggil: "rumiyin",
+        krama: "riyin",
+        ngoko: "biyen",
+        deskripsi: "Pada waktu yang telah lewat."
+    },
+    {
+        indonesia: "ibu",
+        krama_inggil: "ibu",
+        krama: "ibu",
+        ngoko: "biyung",
+        deskripsi: "Perempuan yang melahirkan anak."
+    },
+    {
+        indonesia: "beratnya",
+        krama_inggil: "wawratipun",
+        krama: "wawratipun",
+        ngoko: "bobot",
+        deskripsi: "Tingkat berat suatu benda atau tubuh."
+    },
+    {
+        indonesia: "anak",
+        krama_inggil: "lare",
+        krama: "lare",
+        ngoko: "bocah",
+        deskripsi: "Keturunan dari orang tua, manusia yang masih kecil."
+    },
+    {
+        indonesia: "suami/istri",
+        krama_inggil: "garwa",
+        krama: "semah",
+        ngoko: "bojo",
+        deskripsi: "Pasangan hidup dalam pernikahan."
+    },
+    {
+        indonesia: "bokong",
+        krama_inggil: "pocong",
+        krama: "pocong",
+        ngoko: "bokong",
+        deskripsi: "Bagian tubuh di belakang, tempat duduk."
+    },
+    {
+        indonesia: "benang",
+        krama_inggil: "bênang",
+        krama: "bênang",
+        ngoko: "bolah",
+        deskripsi: "Serat panjang yang digunakan untuk menjahit atau menenun."
+    },
+    {
+        indonesia: "bedak",
+        krama_inggil: "konyoh",
+        krama: "konyoh",
+        ngoko: "boreh",
+        deskripsi: "Serbuk halus untuk wajah atau tubuh."
+    },
+    {
+        indonesia: "kumis",
+        krama_inggil: "rawis",
+        krama: "rawis",
+        ngoko: "brengos",
+        deskripsi: "Rambut yang tumbuh di atas bibir atas."
+    },
+    {
+        indonesia: "selesai",
+        krama_inggil: "bibar",
+        krama: "bibar",
+        ngoko: "bubar",
+        deskripsi: "Telah berakhir atau rampung."
+    },
+    {
+        indonesia: "rusak",
+        krama_inggil: "bibrah",
+        krama: "bibrah",
+        ngoko: "bubrah",
+        deskripsi: "Tidak berfungsi sebagaimana mestinya; hancur."
+    },
+    {
+        indonesia: "budi",
+        krama_inggil: "pênggalih",
+        krama: "manah",
+        ngoko: "budi",
+        deskripsi: "Akal atau pikiran manusia untuk membedakan baik-buruk."
+    },
+    {
+        indonesia: "berangkat",
+        krama_inggil: "bidhal",
+        krama: "bidhal",
+        ngoko: "budhal",
+        deskripsi: "Pergi menuju suatu tempat."
+    },
+    {
+        indonesia: "buka",
+        krama_inggil: "bikak",
+        krama: "bikak",
+        ngoko: "bukak",
+        deskripsi: "Membuka sesuatu yang tertutup atau tertutup rapat."
+    },
+    {
+        indonesia: "gembira",
+        krama_inggil: "rêna",
+        krama: "bingah",
+        ngoko: "bungah",
+        deskripsi: "Merasa sangat senang atau bahagia."
+    },
+    {
+        indonesia: "belakang",
+        krama_inggil: "wingking",
+        krama: "wingking",
+        ngoko: "buri",
+        deskripsi: "Bagian yang terletak di sisi berlawanan dari depan."
+    },
+    {
+        indonesia: "buru",
+        krama_inggil: "bujêng",
+        krama: "bujêng",
+        ngoko: "buru",
+        deskripsi: "Mengejar atau mencari secara cepat."
+    },
+    {
+        indonesia: "buruh",
+        krama_inggil: "bêrah",
+        krama: "bêrah",
+        ngoko: "buruh",
+        deskripsi: "Pekerja, terutama di bidang fisik atau produksi."
+    },
+    {
+        indonesia: "raksasa",
+        krama_inggil: "danawa",
+        krama: "danawa",
+        ngoko: "buta",
+        deskripsi: "Makhluk besar dan kuat dalam cerita rakyat atau mitos."
+    },
+    {
+        indonesia: "butuh",
+        krama_inggil: "bêtah",
+        krama: "bêtah",
+        ngoko: "butuh",
+        deskripsi: "Memerlukan atau membutuhkan sesuatu."
+    },
+    {
+        indonesia: "buang",
+        krama_inggil: "bucal",
+        krama: "bucal",
+        ngoko: "buwang",
+        deskripsi: "Membuang sesuatu agar tidak dipakai lagi."
+    },
+    {
+        indonesia: "selesai",
+        krama_inggil: "rampung",
+        krama: "rampung",
+        ngoko: "buyar",
+        deskripsi: "Sudah diselesaikan atau tidak bersisa lagi."
+    },
+    {
+        indonesia: "berbicara",
+        krama_inggil: "ngandika",
+        krama: "wicantên",
+        ngoko: "calathu",
+        deskripsi: "Mengungkapkan pikiran atau perasaan lewat kata-kata."
+    },
+    {
+        indonesia: "mulut",
+        krama_inggil: "tutuk",
+        krama: "lesan",
+        ngoko: "cangkêm",
+        deskripsi: "Bagian tubuh untuk makan dan bicara."
+    },
+    {
+        indonesia: "cangkir",
+        krama_inggil: "tuwung",
+        krama: "tuwung",
+        ngoko: "cangkir",
+        deskripsi: "Wadah kecil untuk minuman seperti teh atau kopi."
+    },
+    {
+        indonesia: "cerita",
+        krama_inggil: "cariyos",
+        krama: "cariyos",
+        ngoko: "carita",
+        deskripsi: "Pengisahan tentang kejadian atau peristiwa."
+    },
+    {
+        indonesia: "omongan",
+        krama_inggil: "ngendikan",
+        krama: "wicantên",
+        ngoko: "caturan",
+        deskripsi: "Ucapan atau pembicaraan."
+    },
+    {
+        indonesia: "disiapkan",
+        krama_inggil: "caosaken",
+        krama: "cawisaken",
+        ngoko: "cawis",
+        deskripsi: "Sudah dipersiapkan sebelumnya."
+    },
+    {
+        indonesia: "babi hutan",
+        krama_inggil: "andhapan",
+        krama: "andhapan",
+        ngoko: "celeng",
+        deskripsi: "Hewan liar seperti babi yang hidup di hutan."
+    },
+    {
+        indonesia: "bercebok",
+        krama_inggil: "cawik",
+        krama: "cawik",
+        ngoko: "cewok",
+        deskripsi: "Membersihkan diri setelah buang air besar."
+    },
+    {
+        indonesia: "dekat",
+        krama_inggil: "cêlak",
+        krama: "cêlak",
+        ngoko: "cêdhak",
+        deskripsi: "Tidak jauh, dalam jarak pendek."
+    },
+    {
+        indonesia: "dipegang",
+        krama_inggil: "dipunasta",
+        krama: "cêpêng",
+        ngoko: "cêkêl",
+        deskripsi: "Digenggam atau dipegang dengan tangan."
+    },
+    {
+        indonesia: "pendek",
+        krama_inggil: "andhap",
+        krama: "andhap",
+        ngoko: "cêndhek",
+        deskripsi: "Tidak tinggi atau panjang."
+    },
+    {
+        indonesia: "tengkuk",
+        krama_inggil: "griwa",
+        krama: "griwa",
+        ngoko: "cêngêl",
+        deskripsi: "Bagian belakang leher."
+    },
+    {
+        indonesia: "cepat",
+        krama_inggil: "enggal",
+        krama: "enggal",
+        ngoko: "cêpêt",
+        deskripsi: "Dengan kecepatan tinggi, tidak lambat."
+    },
+    {
+        indonesia: "kecil",
+        krama_inggil: "alit",
+        krama: "alit",
+        ngoko: "cilik",
+        deskripsi: "Berukuran tidak besar."
+    },
+    {
+        indonesia: "coba",
+        krama_inggil: "cobi",
+        krama: "cobi",
+        ngoko: "coba",
+        deskripsi: "Melakukan sesuatu untuk pertama kali atau untuk menguji."
+    },
+    {
+        indonesia: "cerita",
+        krama_inggil: "criyos",
+        krama: "criyos",
+        ngoko: "crita",
+        deskripsi: "Kisah atau narasi suatu peristiwa."
+    },
+    {
+        indonesia: "lepas baju",
+        krama_inggil: "lukar",
+        krama: "lukar",
+        ngoko: "cucul",
+        deskripsi: "Membuka pakaian dari tubuh."
+    },
+    {
+        indonesia: "cukup",
+        krama_inggil: "cêkap",
+        krama: "cêkap",
+        ngoko: "cukup",
+        deskripsi: "Tidak kurang dan tidak lebih; sesuai kebutuhan."
+    },
+    {
+        indonesia: "bercukur",
+        krama_inggil: "paras",
+        krama: "pangkas",
+        ngoko: "cukur",
+        deskripsi: "Memotong rambut atau bulu, biasanya di wajah."
+    },
+    {
+        indonesia: "setubuh",
+        krama_inggil: "saresmi",
+        krama: "saresmi",
+        ngoko: "cumbana",
+        deskripsi: "Melakukan hubungan seksual antara pria dan wanita."
+    },
+    {
+        indonesia: "sunting",
+        krama_inggil: "sangsangan",
+        krama: "sangsangan",
+        ngoko: "cundhuk",
+        deskripsi: "Perhiasan rambut yang biasanya dipakai oleh wanita."
+    },
+    {
+        indonesia: "jadi",
+        krama_inggil: "dados",
+        krama: "dados",
+        ngoko: "dadi",
+        deskripsi: "Berubah menjadi sesuatu atau mencapai suatu kondisi."
+    },
+    {
+        indonesia: "dagang",
+        krama_inggil: "gramen",
+        krama: "gramen",
+        ngoko: "dagang",
+        deskripsi: "Kegiatan jual beli barang atau jasa."
+    },
+    {
+        indonesia: "jalan",
+        krama_inggil: "margi",
+        krama: "radinan",
+        ngoko: "dalan",
+        deskripsi: "Tempat untuk lalu lintas orang atau kendaraan."
+    },
+    {
+        indonesia: "berhias",
+        krama_inggil: "busana",
+        krama: "dandos",
+        ngoko: "dandan",
+        deskripsi: "Mempercantik diri dengan pakaian atau riasan."
+    },
+    {
+        indonesia: "pelaksanaan tugas",
+        krama_inggil: "darmi",
+        krama: "darmi",
+        ngoko: "darma",
+        deskripsi: "Tindakan menjalankan kewajiban atau pekerjaan."
+    },
+    {
+        indonesia: "panjang",
+        krama_inggil: "panjang",
+        krama: "panjang",
+        ngoko: "dawa",
+        deskripsi: "Memiliki ukuran memanjang, tidak pendek."
+    },
+    {
+        indonesia: "taruh",
+        krama_inggil: "paring",
+        krama: "suka",
+        ngoko: "deleh",
+        deskripsi: "Meletakkan sesuatu di suatu tempat."
+    },
+    {
+        indonesia: "desa",
+        krama_inggil: "dhusun",
+        krama: "dhusun",
+        ngoko: "desa",
+        deskripsi: "Wilayah permukiman kecil di luar kota."
+    },
+    {
+        indonesia: "lihat",
+        krama_inggil: "priksa",
+        krama: "tingal",
+        ngoko: "dêlêng",
+        deskripsi: "Mengamati dengan mata."
+    },
+    {
+        indonesia: "amal",
+        krama_inggil: "drêma",
+        krama: "drêma",
+        ngoko: "dêrma",
+        deskripsi: "Perbuatan baik yang dilakukan secara sukarela."
+    },
+    {
+        indonesia: "dada",
+        krama_inggil: "jaja",
+        krama: "jaja",
+        ngoko: "dhadha",
+        deskripsi: "Bagian tubuh depan antara leher dan perut."
+    },
+    {
+        indonesia: "tamu",
+        krama_inggil: "tamu",
+        krama: "tamu",
+        ngoko: "dhayoh",
+        deskripsi: "Orang yang datang berkunjung ke suatu tempat."
+    },
+    {
+        indonesia: "pada waktu",
+        krama_inggil: "kala",
+        krama: "kala",
+        ngoko: "dhêk",
+        deskripsi: "Menunjukkan waktu saat suatu hal terjadi."
+    },
+    {
+        indonesia: "senang",
+        krama_inggil: "rêmên",
+        krama: "rêmên",
+        ngoko: "dhêmên",
+        deskripsi: "Merasa gembira atau puas."
+    },
+    {
+        indonesia: "lutut",
+        krama_inggil: "jêngku",
+        krama: "jêngku",
+        ngoko: "dhêngkul",
+        deskripsi: "Bagian tubuh yang menghubungkan paha dan betis."
+    },
+    {
+        indonesia: "tahu",
+        krama_inggil: "priksa",
+        krama: "sumêrêp",
+        ngoko: "dhêngêr",
+        deskripsi: "Mengerti atau memahami sesuatu."
+    },
+    {
+        indonesia: "sendiri",
+        krama_inggil: "piyambak",
+        krama: "piyambak",
+        ngoko: "dhewe",
+        deskripsi: "Tanpa ditemani atau tanpa bantuan orang lain."
+    },
+    {
+        indonesia: "ketika",
+        krama_inggil: "nalika",
+        krama: "nalika",
+        ngoko: "dhek kala",
+        deskripsi: "Saat atau waktu ketika sesuatu terjadi."
+    },
+    {
+        indonesia: "dahulu",
+        krama_inggil: "rumiyin",
+        krama: "rumiyin",
+        ngoko: "dhisik",
+        deskripsi: "Sebelum waktu sekarang."
+    },
+    {
+        indonesia: "turun",
+        krama_inggil: "mandhap",
+        krama: "mandhap",
+        ngoko: "dhun",
+        deskripsi: "Bergerak ke arah bawah."
+    },
+    {
+        indonesia: "uang",
+        krama_inggil: "arta",
+        krama: "yatra",
+        ngoko: "dhuwit",
+        deskripsi: "Alat tukar resmi dalam transaksi ekonomi."
+    },
+    {
+        indonesia: "tinggi",
+        krama_inggil: "luhur",
+        krama: "inggil",
+        ngoko: "dhuwur",
+        deskripsi: "Berlokasi jauh dari dasar atau permukaan tanah."
+    },
+    {
+        indonesia: "hari",
+        krama_inggil: "dintên",
+        krama: "dintên",
+        ngoko: "dina",
+        deskripsi: "Satuan waktu selama 24 jam."
+    },
+    {
+        indonesia: "lampu",
+        krama_inggil: "dilah",
+        krama: "dilah",
+        ngoko: "diyan",
+        deskripsi: "Alat yang digunakan untuk penerangan."
+    },
+    {
+        indonesia: "samparan",
+        krama_inggil: "samparan",
+        krama: "samparan",
+        ngoko: "dlamakan",
+        deskripsi: "Tempat yang dipakai untuk duduk atau beristirahat."
+    },
+    {
+        indonesia: "kertas",
+        krama_inggil: "dlancang",
+        krama: "dlancang",
+        ngoko: "dluwang",
+        deskripsi: "Lembar tipis untuk menulis atau mencetak."
+    },
+    {
+        indonesia: "dodot",
+        krama_inggil: "kampuh",
+        krama: "kampuh",
+        ngoko: "dodod",
+        deskripsi: "Kain adat panjang untuk upacara atau pernikahan."
+    },
+    {
+        indonesia: "taruh",
+        krama_inggil: "paring",
+        krama: "dekek",
+        ngoko: "dokok",
+        deskripsi: "Menempatkan sesuatu di suatu tempat."
+    },
+    {
+        indonesia: "jual",
+        krama_inggil: "sade",
+        krama: "sade",
+        ngoko: "dol",
+        deskripsi: "Menawarkan barang atau jasa dengan imbalan uang."
+    },
+    {
+        indonesia: "main-main",
+        krama_inggil: "amêng-amêng",
+        krama: "amêng-amêng",
+        ngoko: "dolan",
+        deskripsi: "Melakukan kegiatan santai atau hiburan."
+    },
+    {
+        indonesia: "mau",
+        krama_inggil: "kêrsa",
+        krama: "purun",
+        ngoko: "doyan",
+        deskripsi: "Memiliki keinginan atau bersedia melakukan sesuatu."
+    },
+    {
+        indonesia: "jari",
+        krama_inggil: "racikan",
+        krama: "racikan",
+        ngoko: "driji",
+        deskripsi: "Bagian tangan atau kaki yang panjang dan lentur."
+    },
+    {
+        indonesia: "mengadu",
+        krama_inggil: "ngaben",
+        krama: "ngedu",
+        ngoko: "du",
+        deskripsi: "Melaporkan atau mempertemukan dua pihak untuk bersaing."
+    },
+    {
+        indonesia: "bukan",
+        krama_inggil: "sanes",
+        krama: "sanes",
+        ngoko: "dudu",
+        deskripsi: "Menolak atau menyangkal suatu pernyataan."
+    },
+    {
+        indonesia: "duga",
+        krama_inggil: "dugi",
+        krama: "dugi",
+        ngoko: "duga",
+        deskripsi: "Mempunyai perkiraan tentang sesuatu."
+    },
+    {
+        indonesia: "menyuapi",
+        krama_inggil: "ndahari",
+        krama: "ndulang",
+        ngoko: "dulang",
+        deskripsi: "Memberi makan kepada orang lain secara langsung ke mulut."
+    },
+    {
+        indonesia: "saudara",
+        krama_inggil: "santana",
+        krama: "dherek",
+        ngoko: "dulur",
+        deskripsi: "Orang yang berasal dari satu keluarga atau keturunan."
+    },
+    {
+        indonesia: "belum",
+        krama_inggil: "dereng",
+        krama: "dereng",
+        ngoko: "durung",
+        deskripsi: "Belum terjadi atau dilakukan hingga saat ini."
+    },
+    {
+        indonesia: "punya",
+        krama_inggil: "kagungan",
+        krama: "gadhah",
+        ngoko: "duwe",
+        deskripsi: "Memiliki sesuatu sebagai milik."
+    },
+    {
+        indonesia: "gila",
+        krama_inggil: "gêrah ewah",
+        krama: "ewah",
+        ngoko: "edan",
+        deskripsi: "Gangguan mental atau perilaku di luar kewajaran."
+    },
+    {
+        indonesia: "jelek",
+        krama_inggil: "awon",
+        krama: "awon",
+        ngoko: "elek",
+        deskripsi: "Tidak enak dipandang, bertentangan dengan baik."
+    },
+    {
+        indonesia: "ingat",
+        krama_inggil: "emut",
+        krama: "emut",
+        ngoko: "eling",
+        deskripsi: "Tidak lupa; mampu mengenang sesuatu."
+    },
+    {
+        indonesia: "ilmu",
+        krama_inggil: "elmi",
+        krama: "elmi",
+        ngoko: "elmu",
+        deskripsi: "Pengetahuan atau wawasan tentang suatu hal."
+    },
+    {
+        indonesia: "ikut",
+        krama_inggil: "ndherek",
+        krama: "tumut",
+        ngoko: "elu",
+        deskripsi: "Bersama-sama dalam kegiatan atau perjalanan."
+    },
+    {
+        indonesia: "enak",
+        krama_inggil: "eca",
+        krama: "eca",
+        ngoko: "enak",
+        deskripsi: "Memberi rasa senang atau nikmat."
+    },
+    {
+        indonesia: "tapak tangan",
+        krama_inggil: "tapak asta",
+        krama: "tapak asta",
+        ngoko: "epek-epek",
+        deskripsi: "Bagian bawah tangan yang digunakan untuk memegang."
+    },
+    {
+        indonesia: "hitung",
+        krama_inggil: "etang",
+        krama: "etang",
+        ngoko: "etung",
+        deskripsi: "Menjumlahkan atau menghitung nilai atau angka."
+    },
+    {
+        indonesia: "pagi",
+        krama_inggil: "enjing",
+        krama: "enjing",
+        ngoko: "esuk",
+        deskripsi: "Waktu dari matahari terbit hingga menjelang siang."
+    },
+    {
+        indonesia: "repot",
+        krama_inggil: "êwêd",
+        krama: "êwêd",
+        ngoko: "ewuh",
+        deskripsi: "Mengalami banyak kesulitan atau kerepotan."
+    },
+    {
+        indonesia: "menjauh",
+        krama_inggil: "nêbih",
+        krama: "nêbih",
+        ngoko: "êdoh",
+        deskripsi: "Menjauhi sesuatu atau seseorang."
+    },
     {
         word: "memindah",
         tranlsate: {
