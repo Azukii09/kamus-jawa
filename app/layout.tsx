@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import React from "react";
+import LeftMenu from "@/app/_component/LeftMenu/LeftMenu";
+import RightMenu from "@/app/_component/RightMenu/RightMenu";
 
 export const metadata: Metadata = {
   title: "Kamus Jawa",
@@ -15,15 +17,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`antialiased`}
+        className={`antialiased bg-slate-900 text-white`}
       >
-          <div className={"flex flex-col xl:flex-row w-full h-screen border-[1px]"}>
-              <div className={"hidden xl:flex w-3/12 h-full border-[1px] "}>a</div>
+          <div className={"flex flex-col xl:flex-row w-full h-screen"}>
+              <LeftMenu />
               <div className={"flex xl:hidden w-full border-[1px] "}>navbar</div>
-              <div className={"flex w-full xl:w-6/12 h-full border-[1px]"}>
+              <div className={"flex w-full xl:w-6/12 h-full border-x-[1px]"}>
                   {children}
               </div>
-              <div className={"hidden xl:flex w-3/12 h-full border-[1px]"}>c</div>
+              <RightMenu/>
           </div>
       </body>
     </html>
