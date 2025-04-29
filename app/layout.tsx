@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import React from "react";
-import LeftMenu from "@/app/_component/LeftMenu/LeftMenu";
-import RightMenu from "@/app/_component/RightMenu/RightMenu";
-import MobileMenu from "@/app/_component/MobileMenu/MobileNav";
+import LeftMenu from "@/app/_component/ui/LeftMenu/LeftMenu";
+import RightMenu from "@/app/_component/ui/RightMenu/RightMenu";
+import MobileMenu from "@/app/_component/ui/MobileMenu/MobileNav";
 
 export const metadata: Metadata = {
   title: "Kamus Jawa",
@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`antialiased bg-slate-900 text-slate-500`}
+        className={`antialiased bg-slate-900 text-slate-400`}
       >
           <div className={"flex flex-row w-full h-screen"}>
               <LeftMenu />
