@@ -17,12 +17,13 @@ export default function RootLayout({
       <body
         className={`antialiased`}
       >
-          <div className={"flex w-full h-screen border-[1px]"}>
-              <div className={"flex w-3/12 h-full border-[1px] "}>a</div>
-              <div className={"flex w-6/12 h-full border-[1px]"}>
+          <div className={"flex flex-col xl:flex-row w-full h-screen border-[1px]"}>
+              <div className={"hidden xl:flex w-3/12 h-full border-[1px] "}>a</div>
+              <div className={"flex xl:hidden w-full border-[1px] "}>navbar</div>
+              <div className={"flex w-full xl:w-6/12 h-full border-[1px]"}>
                   {children}
               </div>
-              <div className={"flex w-3/12 h-full border-[1px]"}>c</div>
+              <div className={"hidden xl:flex w-3/12 h-full border-[1px]"}>c</div>
           </div>
       </body>
     </html>
