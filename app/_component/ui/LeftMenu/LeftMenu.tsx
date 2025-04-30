@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export default function LeftMenu() {
     return (
-        <section className={"w-3/12 h-full overflow-y-auto flex flex-col"}>
+        <section className={"hidden xl:flex w-3/12 h-full overflow-y-auto flex-col"}>
             <div className={"w-full min-h-20 flex items-center justify-center gap-4 text-primary py-12"}>
                 <div className={"relative size-32 bg-white rounded-full drop-shadow-lg drop-shadow-slate-300"}>
                     <Image
