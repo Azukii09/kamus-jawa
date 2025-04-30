@@ -16,7 +16,8 @@ export default function Home() {
   };
   return (
     <main className={"p-8 min-h-screen"}>
-      <div className="flex flex-col gap-8">
+      <div className="flex flex-col gap-4">
+        <h1 className={"capitalize text-primary font-bold text-2xl"}>Masukan kata yang ingin di translasikan</h1>
         <div className="w-full flex flex-1 items-center justify-between bg-white p-2 rounded-full px-4 gap-2">
           <div className={"flex items-center gap-2 bg-primary p-1 rounded-full"}>
             <SearchSVG className={"size-5 text-white"} />
