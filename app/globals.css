@@ -3,4 +3,8 @@
 
 @theme{
     --color-background: #e7d7b6;
+    --color-primary: #ff6900;
+    --color-secondary: #ff8904;
+    --color-placeholder: #ffb86a;
+    --color-translation: #62748e;
 }

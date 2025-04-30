@@ -11,12 +11,12 @@ export default function MobileMenu() {
     return (
         <div className={"flex w-full border-white border-y-[1px] p-4 justify-between gap-8"}>
             <div className="w-full flex flex-1 items-center justify-between bg-white p-2 rounded-full px-4 gap-4">
-                <SearchSVG className={"size-5 text-orange-500"} />
+                <SearchSVG className={"size-5 text-primary"} />
                 <input
                     type="text"
                     name="search"
                     placeholder={"Search"}
-                    className={"flex flex-1 bg-transparent border-none rounded-full focus:outline-none placeholder-orange-300"}
+                    className={"flex flex-1 bg-transparent border-none rounded-full focus:outline-none placeholder-placeholder"}
                 />
             </div>
             <div className="flex items-center gap-4 xl:gap-6 relative">
