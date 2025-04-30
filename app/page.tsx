@@ -3,6 +3,7 @@ import {Word} from "@/lib/data/word";
 import {searchWords, WordEntry} from "@/lib/function/searchWord";
 import React, {useState} from "react";
 import SearchSVG from "@/app/_component/icon/Search";
+import SoundSVG from "@/app/_component/icon/Sound";
 
 export default function Home() {
   const [query, setQuery] = useState<string>('');
@@ -37,14 +38,35 @@ export default function Home() {
         </div>
 
         {results.length > 0 ? (
-            <ul className="space-y-2 rounded-xl bg-white p-2">
+            <ul className="space-y-2 rounded-xl">
               {results.map((item, idx) => (
-                  <li key={idx} className="p-2 border rounded">
-                    <p><strong>Indonesia:</strong> {item.indonesia}</p>
-                    <p><strong>Krama Inggil:</strong> {item.krama_inggil}</p>
-                    <p><strong>Krama:</strong> {item.krama}</p>
-                    <p><strong>Ngoko:</strong> {item.ngoko}</p>
-                    <p><em>{item.deskripsi}</em></p>
+                  <li key={idx} className=" flex flex-col gap-2 p-4 bg-white rounded-xl ">
+                    <h1 className={"capitalize font-bold italic text-3xl text-center"}>{item.indonesia}</h1>
+                    <div className={"flex justify-center items-center gap-2 py-4"}>
+                      <div className={"bg-orange-500 size-9 rounded-full flex justify-center items-center"}>
+                        <SoundSVG
+                            className={"size-7 text-white rounded-full"}
+                            bgColor={"bg-orange-500"}
+                        />
+                      </div>
+                      <p>{"/\"\"/"}</p>
+                    </div>
+                    <p className={" text-center "}>Kata tersebut memiliki terjemahan</p>
+                    <div className={"flex flex-col gap-2 px-4"}>
+                      <p className={"pl-6 italic capitalize text-slate-500"}>
+                        <strong className={"text-orange-500"}>Indonesia:</strong> {item.indonesia}
+                      </p>
+                      <p className={"pl-6 italic capitalize text-slate-500"}>
+                        <strong className={"text-orange-500"}>Krama Inggil:</strong> {item.krama_inggil}
+                      </p>
+                      <p className={"pl-6 italic capitalize text-slate-500"}>
+                        <strong className={"text-orange-500"}>Krama:</strong> {item.krama}
+                      </p>
+                      <p className={"pl-6 italic capitalize text-slate-500"}>
+                        <strong className={"text-orange-500"}>Ngoko:</strong> {item.ngoko}
+                      </p>
+                      <p className={"font-semibold text-slate-500"}>{item.deskripsi}</p>
+                    </div>
                   </li>
               ))}
             </ul>
