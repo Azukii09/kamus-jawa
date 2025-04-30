@@ -32,7 +32,7 @@ export default function RootLayout({
       <body
           className={`${arimo.className} antialiased bg-background text-orange-500`}
       >
-          <div className={"flex flex-row w-full h-screen"}>
+          <div className={"flex flex-row w-full h-full"}>
               <LeftMenu />
               <div className={"flex flex-col w-full xl:w-6/12 h-full border-white border-x-[1px]"}>
                   <MobileMenu/>
