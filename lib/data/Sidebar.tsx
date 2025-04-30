@@ -5,7 +5,6 @@ import Profile2 from "@/app/_component/icon/Profile2";
 import SettingSVG from "@/app/_component/icon/Setting";
 import DictionarySVG from "@/app/_component/icon/Dictionary";
 import ChatSvg from "@/app/_component/icon/Chat";
-import Chat2Svg from "@/app/_component/icon/Chat2";
 import JatimSVG from "@/app/_component/icon/Jatim";
 
 export const SideMenu = [
