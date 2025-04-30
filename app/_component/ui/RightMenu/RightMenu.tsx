@@ -1,15 +1,19 @@
-import React from "react";
+"use client"
+import React, {useState} from "react";
 import {SideMenu} from "@/lib/data/Sidebar";
 import Link from "next/link";
 import DoorOutSvg from "@/app/_component/icon/DoorOut";
 import IndonesiaSVG from "@/app/_component/icon/Indonesia";
 import UKSVG from "@/app/_component/icon/UK";
+import Image from "next/image";
+import {cerita} from "@/lib/data/cerita";
+import {it} from "node:test";
 
 export default function RightMenu() {
+    const [newsOpen, setNewsOpen] = useState(false);
     return (
         <section className={"hidden xl:flex w-3/12 h-full overflow-y-auto flex-col"}>
-            <div
-                className={"w-full min-h-20 flex items-center justify-between gap-4 text-primary px-20 py-4"}>
+            <div className={"w-full min-h-20 flex items-center justify-between gap-4 text-primary px-20 py-4"}>
                 <UKSVG className={"size-12"}/>
                 <input
                     id="switch-link"
@@ -18,31 +22,62 @@ export default function RightMenu() {
                 />
                 <IndonesiaSVG className={"size-12"}/>
             </div>
-            <div className={"w-full h-full flex flex-col items-center justify-between pb-8"}>
-                <ul className={"mt-6 h-full flex flex-col justify-between"}>
-                    <li className={"relative px-4 py-3 w-full"}>
-                        {SideMenu.map((item, index) => (
-                            <div className={"py-3 w-full"} key={index}>
-                                <Link
-                                    href={"/"}
-                                    className={`${item.active ? "bg-white text-primary hover:text-red-500" : "hover:bg-white hover:text-red-500"} text-lg  py-2 px-6 inline-flex items-center w-full font-bold transition-colors duration-150 rounded-full`}
-                                >
-                                    {item.icon}
-                                    <span className="ml-4">{item.menuName}</span>
-                                </Link>
-                            </div>
-                        ))}
-                    </li>
-                    <li className={"relative px-4 py-3 w-full"}>
-                        <Link
-                            href={"/"}
-                            className={`text-lg hover:bg-white hover:text-red-500 py-2 px-6 inline-flex items-center w-full font-bold transition-colors duration-150 rounded-full`}
+            <div className={"flex items-center justify-center p-8 w-full"}>
+                <div className={"flex flex-col w-full items-center p-6 gap-3 rounded-xl shadow-md shadow-slate-400 border-white border-[0.5px]"}>
+                    <div className={"relative size-32 rounded-full bg-white shadow-sm shadow-slate-400"}>
+                        <Image
+                            src={"/img/profile2.jpg"}
+                            alt={"profile"}
+                            className={"rounded-full object-cover w-full h-full"}
+                            fill
+                        />
+                    </div>
+                    <span className={"font-bold text-xl "}>Mochamad Dava</span>
+                    <span>21 Tahun</span>
+                </div>
+            </div>
+            <div className={"flex items-center justify-center p-8 w-full"}>
+                <div className={"flex flex-col w-full items-center justify-between gap-3"}>
+                    <button
+                        onClick={() => setNewsOpen(!newsOpen)}
+                        className="w-full font-bold text-2xl rounded-lg px-4 py-2 flex items-center justify-between gap-2"
+                    >
+                        <span>Bacaan Terkini</span>
+                        <svg
+                            className={`w-4 h-4 transform transition-transform duration-300 ${newsOpen ? '-rotate-90' : ''}`}
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
                         >
-                            <DoorOutSvg className={"size-7"}/>
-                            <span className="ml-4">Keluar</span>
-                        </Link>
-                    </li>
-                </ul>
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="5" d="M15 19l-7-7 7-7"/>
+                        </svg>
+                    </button>
+
+                    {newsOpen &&
+                        <div className="flex flex-col gap-4 mt-4">
+                            {cerita.map((item, index) => (
+                                <div key={index} className="flex gap-4 p-4 border-[0.5px] border-white rounded-xl shadow-md shadow-slate-400">
+                                    <div className="relative w-24 h-24 bg-white shadow-sm shadow-slate-400 rounded-lg">
+                                        <Image
+                                            src={item.image}
+                                            alt={item.title}
+                                            className="object-cover rounded-lg"
+                                            fill
+                                        />
+                                    </div>
+                                    <div className="flex flex-col flex-1">
+                                        <h3 className="font-bold text-primary line-clamp-2">
+                                            {item.title}
+                                        </h3>
+                                        <p className="text-sm text-gray-600 mt-1 line-clamp-2">
+                                            {item.content}
+                                        </p>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    }
+                </div>
             </div>
         </section>
     );
