@@ -1,13 +1,9 @@
 "use client"
 import React, {useState} from "react";
-import {SideMenu} from "@/lib/data/Sidebar";
-import Link from "next/link";
-import DoorOutSvg from "@/app/_component/icon/DoorOut";
 import IndonesiaSVG from "@/app/_component/icon/Indonesia";
 import UKSVG from "@/app/_component/icon/UK";
 import Image from "next/image";
 import {cerita} from "@/lib/data/cerita";
-import {it} from "node:test";
 
 export default function RightMenu() {
     const [newsOpen, setNewsOpen] = useState(false);
